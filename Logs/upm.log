@@ -1,0 +1,32 @@
+[2026-11-05T12:40:04.890Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.7f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 24800 --ipc-path Unity-Upm-24800 -l 2 --log-file C:\\Users\\harsh\\Documents\\FindingNook/Logs/upm.log
+[2026-11-05T12:40:04.934Z][INFO] IPC server started (IPC path=Unity-Upm-24800).
+[2026-11-05T12:40:04.934Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-24800.
+[2026-11-05T12:40:20.700Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-05T12:40:20.840Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-05T12:40:20.861Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-05T12:40:21.263Z][INFO] config:project:get-registries --> 200 (403 ms)
+[2026-11-05T12:40:21.485Z][INFO] project:list-packages --> 200 (645 ms)
+[2026-11-05T12:40:21.486Z][INFO] project:list-packages --> 200 (786 ms)
+[2026-11-05T12:40:46.801Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-05T12:40:46.815Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-05T12:40:46.991Z][INFO] project:list-packages --> 200 (190 ms)
+[2026-11-05T12:40:46.992Z][INFO] project:list-packages --> 200 (177 ms)
+[2026-11-05T12:40:49.286Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-05T12:40:49.380Z][INFO] project:list-packages --> 200 (94 ms)
+[2026-11-05T12:40:49.560Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-05T12:40:49.563Z][INFO] config:project:get-registries --> 200 (3 ms)
+[2026-11-05T12:40:53.877Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-05T12:40:53.989Z][INFO] project:list-packages --> 200 (112 ms)
+[2026-11-05T12:40:58.665Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-05T12:40:59.061Z][INFO] Downloading package [com.unity.package-manager.metadata-6000.5@0.0.106] from registry 'https://packages.unity.com'
+[2026-11-05T12:40:59.937Z][INFO] Finished downloading package [com.unity.package-manager.metadata-6000.5@0.0.106] from registry 'https://packages.unity.com' (size: 11.5 kB, time: 876ms)
+[2026-11-05T12:41:01.454Z][INFO] project:list-packages --> 200 (2789 ms)
